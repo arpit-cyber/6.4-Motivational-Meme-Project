@@ -1,0 +1,18 @@
+*{
+    background-color: Black;
+}
+
+h1,p{
+    color: white;
+    text-align: center;
+}
+h1{
+    font: bold;
+    text-transform: uppercase;
+
+}
+#motivational-img{
+    border: 5px solid white;
+    margin-left: 85px;
+margin-top: 40px;
+}
